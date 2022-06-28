@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-workshop1master-dev-115550-authRole",
+      "UnauthRoleArn": "arn:aws:iam::734769706552:role/amplify-workshop1master-dev-115550-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::734769706552:role/amplify-workshop1master-dev-115550-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-workshop1master-dev-115550-deployment",
+      "UnauthRoleName": "amplify-workshop1master-dev-115550-unauthRole",
+      "StackName": "amplify-workshop1master-dev-115550",
+      "StackId": "arn:aws:cloudformation:eu-west-1:734769706552:stack/amplify-workshop1master-dev-115550/8038c920-f6c8-11ec-b3a6-0a1a6620a8db"
+    }
+  },
+  "aworshops": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-workshop1master-aworshops-115905-authRole",
+      "UnauthRoleArn": "arn:aws:iam::734769706552:role/amplify-workshop1master-aworshops-115905-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::734769706552:role/amplify-workshop1master-aworshops-115905-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-workshop1master-aworshops-115905-deployment",
+      "UnauthRoleName": "amplify-workshop1master-aworshops-115905-unauthRole",
+      "StackName": "amplify-workshop1master-aworshops-115905",
+      "StackId": "arn:aws:cloudformation:eu-west-2:734769706552:stack/amplify-workshop1master-aworshops-115905/f3f4edd0-f6c8-11ec-a42e-0a66a1362a54",
+      "AmplifyAppId": "d3vmhjr3rd58zz"
+    }
+  }
+}

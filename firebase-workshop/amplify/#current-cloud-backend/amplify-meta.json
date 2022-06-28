@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-workshop1master-aworshops-115905-authRole",
+      "UnauthRoleArn": "arn:aws:iam::734769706552:role/amplify-workshop1master-aworshops-115905-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::734769706552:role/amplify-workshop1master-aworshops-115905-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-workshop1master-aworshops-115905-deployment",
+      "UnauthRoleName": "amplify-workshop1master-aworshops-115905-unauthRole",
+      "StackName": "amplify-workshop1master-aworshops-115905",
+      "StackId": "arn:aws:cloudformation:eu-west-2:734769706552:stack/amplify-workshop1master-aworshops-115905/f3f4edd0-f6c8-11ec-a42e-0a66a1362a54",
+      "AmplifyAppId": "d3vmhjr3rd58zz"
+    }
+  }
+}
